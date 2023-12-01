@@ -1,0 +1,34 @@
+body{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-image: url(images/potatobg.jpg);
+}
+
+form{
+    border: 10px solid #d3d3d3;
+    background-color: #FFFFFF;
+    max-width: 550px;
+    margin: 2rem auto;
+    padding: 2rem;
+}
+
+#results {
+    border: 10px solid #d3d3d3;
+    background-color: #FFFFFF;
+    max-width: 550px;
+    margin: 2rem auto;
+    padding: 2rem;
+}
+
+img{
+    width: 550px;
+    height: flex;
+}
+
+#submit-btn{
+    background-color: #d3d3d3;
+    margin: 2rem auto;
+    font-size: 20px;
+    height: flex;
+    width: flex;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
